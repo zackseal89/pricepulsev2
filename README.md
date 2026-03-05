@@ -8,6 +8,8 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com/)
 [![TinyFish](https://img.shields.io/badge/TinyFish-AI_Agents-FF4B4B?style=for-the-badge)](https://agent.tinyfish.ai/)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzackseal89%2Fpricepulsev2&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY,TINYFISH_API_KEY)
+
 [**Explore the Demo**](https://pricepulse-ai.vercel.app) • [**Read the Core Idea**](PricePulse%20AI_%20The%20Core%20Idea%20for%20Tinyfish%20Accelerator.md) • [**Documentation**](GEMINI.md)
 
 </div>
